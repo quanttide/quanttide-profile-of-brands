@@ -1,8 +1,9 @@
 format: jb-book
 root: index.md
 parts:
-  - caption: 公司品牌
+  - caption: 主品牌
     chapters:
       - file: quanttide/README.md
         sections:
           - file: quanttide/values/README.md
+ 
